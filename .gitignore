@@ -1,0 +1,5 @@
+.vscode/launch.json
+guitar_images/*.jpg
+guitar_attributes/*.txt
+guitar_description/*.txt
+guitar_reviews/*.json
