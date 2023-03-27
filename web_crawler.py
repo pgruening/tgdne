@@ -21,7 +21,7 @@ PATHS = {
 
 def run():
     num_pages = get_num_pages(load_page(URL))
-    for index in range(16, num_pages):
+    for index in range(0, num_pages):
         if num_pages == 0:
             url = URL
         else:
