@@ -5,4 +5,3 @@ guitar_description/*.txt
 guitar_reviews/*.json
 **/*.pyc
 guitar_images_downsampled/*
-split_files/*.txt
